@@ -22,6 +22,13 @@ public class switcHexample {
             case '*' : result = num1*num2;
                 System.out.println(num1+"*"+num2+"="+result);
                 break;
+            case '%' : if(num2==0){
+                System.out.println("Error Divison By Zero!!");
+            }else {
+                result = num1 % num2;
+                System.out.println(num1 + "%" + num2 + "=" + result);
+            }
+                 break;
             case '/':if(num2==0){
                 System.out.println("Error Divison By Zero!!");
             }else {
