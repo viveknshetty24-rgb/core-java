@@ -1,6 +1,6 @@
 package conditionals;
 import java.util.Scanner;
-public class iFexample3 {
+public class student_grade {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int sub1 = sc.nextInt();

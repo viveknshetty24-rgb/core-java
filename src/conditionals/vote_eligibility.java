@@ -1,6 +1,6 @@
 package conditionals;
 
-public class iFexample1 {
+public class vote_eligibility {
     public static void main(String[] args) {
 
         int age = 20;

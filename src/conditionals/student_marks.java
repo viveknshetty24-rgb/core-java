@@ -2,7 +2,7 @@ package conditionals;
 
 import java.util.Scanner;
 
-public class iFelseLad {
+public class student_marks {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter marks of 5 subjects: ");

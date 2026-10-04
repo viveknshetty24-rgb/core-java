@@ -2,7 +2,7 @@ package conditionals;
 
 import java.util.Scanner;
 
-public class switcHexample {
+public class simple_Calculator {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the First Number:");
