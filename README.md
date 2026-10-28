@@ -10,6 +10,7 @@ This repository contains my Core Java learning and practice programs.
 * Loops
 * Pattern Programs
 * Arrays
+* Strings
 * OOP Concepts
 * More Java concepts as I learn them
 
